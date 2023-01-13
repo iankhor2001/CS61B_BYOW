@@ -391,7 +391,7 @@ tramp
 !byow/**/*.mp4
 !byow/**/*.gif
 !byow/**/*.wav
-
+!*.jpg
 synsets.txt
 hyponyms.txt
 top_14377_words.csv
