@@ -13,6 +13,7 @@ https://fa22.datastructur.es/materials/proj/proj3/
 
 ## Instruction
 
+To run the game, run the `/proj3/byow/Core/Engine.java` file.
 After loading into the game, 
 
 ![Menu](https://github.com/iankhor2001/CS61B_BYOW/blob/main/Screenshot%202023-01-13%20033120.jpg)
